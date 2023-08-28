@@ -1,4 +1,4 @@
-![logo](https://github.com/amandeepsirohi/amandeepsirohi/blob/main/Screenshot_20230828_151528.png)
+<!-- ![logo](https://github.com/amandeepsirohi/amandeepsirohi/blob/main/Screenshot_20230828_151528.png) -->
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img alt="coding" align="right" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
