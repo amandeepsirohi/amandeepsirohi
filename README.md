@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/amandeepsirohi/amandeepsirohi/blob/main/Screenshot_20230828_151528.png) -->
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img alt="coding" align="right" width="400" src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img alt="coding" align="right" width="300" src="https://bestanimations.com/media/homer/371529300simpsons-homer-animated-gif3.gif">
 - 🔭 I’m currently working on [Vehicle Rental System](https://github.com/amandeepsirohi/Vehicle-rental-system)
 
 - 🌱 I’m currently learning **React , NodeJs**
