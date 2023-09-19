@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Vehicle Rental System](https://github.com/amandeepsirohi/Vehicle-rental-system)
 
-- 🌱 I’m currently learning **React , NodeJs**
+- 🌱 I’m currently learning **React
 
 - 👨‍💻 All of my projects are available at [amandeepsirohi.github.io](amandeepsirohi.github.io)
 
