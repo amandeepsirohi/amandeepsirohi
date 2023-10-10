@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amandeep.gh1729@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/uEF27](https://shorturl.at/uEF27)
+- 📄 Know about my experiences [https://shorturl.at/uEF27](https://shorturl.at/cdtMY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
