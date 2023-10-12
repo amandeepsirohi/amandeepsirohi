@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [amandeepsirohi.github.io](amandeepsirohi.github.io)
-
 - 📫 How to reach me **amandeep.gh1729@gmail.com**
 
 - 📄 Know about my experiences [https://amandeepsirohi.netlify.app/](https://amandeepsirohi.netlify.app/)
