@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **amandeep.gh1729@gmail.com**
 
-- 📄 Know about my experiences [https://amandeepsirohi.netlify.app/](https://amandeepsirohi.netlify.app/)
+- 📄 My Website [https://amandeepsirohi.netlify.app/](https://amandeepsirohi.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
