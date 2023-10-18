@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate frontend developer eager to create seamless web experiences.</h3>
 
 - 📫 How to reach me **amandeep.gh1729@gmail.com**
 
