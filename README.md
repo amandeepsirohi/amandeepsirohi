@@ -44,11 +44,11 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/linux--v1.png"  alt="express" width="40" height="40"/> </a>
 
 <br/>
+<br/>
 <div style="display:flex;">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandeepsirohi&show_icons=true&locale=en&layout=compact" alt="amandeepsirohi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandeepsirohi&show_icons=true&locale=en" alt="amandeepsirohi" /></p>
+     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsirohi&layout=compact&theme=dracula)
+![Amandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandeepsirohi&hide=contribs,prs&theme=dracula)
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandeepsirohi&" alt="amandeepsirohi" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amandeepsirohi&theme=dracula)](https://git.io/streak-stats)
