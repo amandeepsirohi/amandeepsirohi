@@ -52,3 +52,5 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amandeepsirohi&theme=dracula)](https://git.io/streak-stats)
+
+![snake gif](https://github.com/amandeepsirohi/amandeepsirohi/blob/output/github-contribution-grid-snake.gif)
