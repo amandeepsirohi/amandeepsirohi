@@ -47,7 +47,7 @@
 <br/>
 <div style="display:flex;">
      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsirohi&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepsirohi&layout=compact&hide=html,jupyter%20notebook,css&theme=dracula)
 ![Amandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandeepsirohi&hide=contribs,prs&theme=dracula)
 </div>
 
