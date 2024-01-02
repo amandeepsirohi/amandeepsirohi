@@ -4,7 +4,6 @@
 - 📫 How to reach me **amandeep.gh1729@gmail.com**
 
 - 📄 My Website [https://amandeeps.netlify.app/](https://amandeeps.netlify.app/)
-
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amandeep sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandeep sirohi" height="30" width="40" /></a>
@@ -37,6 +36,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/node-js.png" alt="express" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/express-js.png" alt="express" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/64/mongo-db.png" alt="express" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img width="40" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/></a>
   
 <h3 align="left">Tools:</h3>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"  alt="express" width="40" height="40"/> </a>
